@@ -11,7 +11,7 @@ Establishing an unified content repository for product teams.
 
 ---
 
-![[numbercruncher-mvp.png]]
+![[assets/numbercruncher-mvp.png]]
 
 ---
 ## Early alpha
@@ -64,7 +64,7 @@ For any issues, bugs or feedback, please use the following links:
 ---
 ## Product Backlog
 
-![[product-backlog.png]]
+![[assets/product-backlog.png]]
 
 
 ---
@@ -72,7 +72,7 @@ For any issues, bugs or feedback, please use the following links:
 
 Trying to follow a lean and agile development process
 
-![[dev-process.png]]
+![[assets/dev-process.png]]
 
 
 ---

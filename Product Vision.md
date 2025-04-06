@@ -28,7 +28,7 @@ Organize and tackle the **daily business** together
 Connect your data.
 **Build**, test, and document **Solutions**.
 
-![[numbercruncher-mvp.png]]
+![[assets/numbercruncher-mvp.png]]
 
 ---
 ## Target Audience
