@@ -10,8 +10,7 @@ An Obsidian Plugin, supporting the product development & management process e2e.
 Establishing an unified content repository for product teams.
 
 ---
-
-![[assets/numbercruncher-mvp.png]]
+![alt text](assets/numbercruncher-mvp.png)
 
 ---
 ## Early alpha
@@ -64,7 +63,7 @@ For any issues, bugs or feedback, please use the following links:
 ---
 ## Product Backlog
 
-![[assets/product-backlog.png]]
+![alt text](assets/product-backlog.png)
 
 
 ---
@@ -72,8 +71,7 @@ For any issues, bugs or feedback, please use the following links:
 
 Trying to follow a lean and agile development process
 
-![[assets/dev-process.png]]
-
+![alt text](assets/dev-process.png)
 
 ---
 ### Discovery
