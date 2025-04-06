@@ -1,0 +1,15 @@
+{
+  "defaultViewMode": "preview",
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "./attachments",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "hidden",
+  "newFileLocation": "root",
+  "newFileFolderPath": "notes"
+}

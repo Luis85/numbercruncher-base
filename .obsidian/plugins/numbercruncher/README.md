@@ -1,5 +1,7 @@
 ---
-version: 0.0.1-ea
+name: The Numbercruncher
+version: 0.0.1ea
+release: mvp
 ---
 
 # 🎃The Numbercruncher
@@ -7,19 +9,21 @@ version: 0.0.1-ea
 #experimental #proofofconcept #poc
 
 An Obsidian Plugin, supporting the product development & management process e2e. 
-Establishing an unified content repository for product teams.
+Establishing a unified content repository for product teams.
 
 ---
 
-![[numbercruncher-mvp.png]]
+![alt text](assets/image.png)
 
 ---
+
 ## Early alpha
 
-- breaking changes will happen on a weekly basis
+- breaking changes will hapen on a weekly basis
 - not recommended for production
 
 ---
+
 ## Feedback
 
 For any issues, bugs or feedback, please use the following links:
@@ -28,6 +32,7 @@ For any issues, bugs or feedback, please use the following links:
 - Discussions: https://github.com/Luis85/numbercruncher/discussions
 
 ---
+
 ## Roadmap
 
 - [ ] Build for production
@@ -37,14 +42,15 @@ For any issues, bugs or feedback, please use the following links:
 - [ ] Integrate with Mural
 - [ ] Integrate with EventCatalog
 - [ ] Integrate with StoryBook
-- [ ] Maybe time for tests
 - [ ] **Release v0.0.1 - MvP**
+- [ ] Maybe time for tests
 - [ ] Define contribution & publishing processes
 - [ ] Publish Codebase for Contributions
 - [ ] Compliance with Obsidian Plugin conventions
 - [ ] Publish on Obsidian Marketplace
 
 ---
+
 ## Features
 
 - [ ] Requirements Engineering Essentials
@@ -52,45 +58,44 @@ For any issues, bugs or feedback, please use the following links:
 - [ ] Integrates well with the M365 eco-system
 
 --- 
+
 ## Getting started
 
-1. Get and install Obsidian from [obsidian.md](https://obsidian.md/)
-2. Get and install Git from [git-scm.com](https://git-scm.com/)
-3. Download the Skeleton by clicking "code" and "download as zip"
-4. Extract the zip into an empty folder
-5. Open the folder with Obsidian
-6. Initialize your Vault and start building
+- @TODO
 
 ---
-## Product Backlog
 
-![[product-backlog.png]]
+## Status Quo
 
+![alt text](assets/image-1.png)
 
 ---
+
 ## Development Process
 
-Trying to follow a lean and agile development process
-
-![[dev-process.png]]
-
+- trying to follow a lean and agile development process
 
 ---
+
 ### Discovery
 
 Discovering improved solutions based on the provided feedback
 
 ---
+
 ### Refinement
 
-Scope of the next release which needs to be refined before development
+Scope of the next release
 
 ---
+
+
 ### Planning
 
 Plan for the next increment
 
 ---
+
 ### Development
 
-- [ ] Plugin Update via git
+- Plugin Update via git
