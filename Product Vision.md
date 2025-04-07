@@ -1,11 +1,13 @@
 ---
 version: 0.0.1-ea
 ---
+
 ## 🎃The Numbercruncher
 
 Ideate, Design, Validate, Develop, Evaluate, and Document in **one place** as **one team**
 
 ---
+**Mission**
 ## One place - One team
 
 Organize and tackle the **daily business** together
