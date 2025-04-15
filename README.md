@@ -58,7 +58,7 @@ For any issues, bugs or feedback, please use the following links:
 3. Download the Skeleton by clicking "code" and "download as zip"
 4. Extract the zip into an empty folder
 5. Open the folder with Obsidian
-6. Initialize your Vault and start building
+6. Initialize your Place and start building
 
 ---
 ## Product Backlog
